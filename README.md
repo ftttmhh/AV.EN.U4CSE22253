@@ -21,25 +21,6 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 - **Automatic Authentication**: Pre-configured with an API token for immediate use
 - **Responsive Design**: Works on desktop and mobile devices
 
-## Usage Tips
-
-- Switch between Chart and Heatmap views using the tabs at the top
-- Select any stock from the dropdown menu to view its price data
-- Adjust the time frame slider to see data from different periods
-- Hover over the heatmap to see detailed correlation values
-
-## Notes
-
-- The app uses mock data if the API is unavailable
-- Data automatically refreshes every 30-60 seconds
-- No login required - authentication is handled automatically
-
-## Troubleshooting
-
-Having issues? Try these quick fixes:
-
-- Clear your browser cache and reload
-- Make sure you're running the latest Node.js version
-- Check your console for specific error messages
-
-Happy investing!
+![SUCCESSFUL GET AVGO](https://github.com/user-attachments/assets/d267e20e-d7f8-4059-b944-4b47871dd65d)
+![SUCCESSFUL GET BRKB](https://github.com/user-attachments/assets/24cee419-1b57-40be-a529-9caa831fa10e)
+![SUCCESSFUL GET TSLA](https://github.com/user-attachments/assets/a1d009b8-6f1b-4f5e-92b2-5534d372bd83)
